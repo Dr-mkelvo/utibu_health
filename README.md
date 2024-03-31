@@ -79,71 +79,87 @@ file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-08-09-812_host.exp.exp
 Home page, handpicked for you section
 
 ### SCREEN
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-08-48-284_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/3f711f35-3d87-4c8b-9d7a-cc161e5ab559)
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-08-55-018_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/4c2f4e12-eab4-4490-9647-bc95b1222089)
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-10-29-860_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/92b1e68b-b8d2-415c-9c28-a0e7f8282a13)
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-10-36-126_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/af0ca71c-7a3c-42fa-89a4-75e91d6213a6)
+
 
 
 #### DESCRIPTION
+Featured Brands
 
+### SCREEN
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-10-16-362_host.exp.exponent(1).jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/f17c9978-fd00-4d20-8709-c582b727093e)
+
+
+#### DESCRIPTION
+Filters that one can apply while searching
+
+### SCREEN
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-09-23-337_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/e8b3dbc4-9877-4f8d-b49a-5a22bc397e2f)
+
+
+#### DESCRIPTION
+Top categories
+
+### SCREEN
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-08-38-598_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/89fde750-9c4e-40c0-824a-55582b9de70b)
+
+
+#### DESCRIPTION
+Item in cart
 
 ### SCREEN
 
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-10-49-935_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/2540a830-4316-499b-b9d5-ebbf2489c2e2)
 
 #### DESCRIPTION
 
+Delete Item in the cart
+### SCREEN
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-08-17-926_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/dd5539b6-8ed3-4f28-8fa6-58f0d2d08eaf)
+
+
+#### DESCRIPTION
+Change location
 
 ### SCREEN
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-08-23-446_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/37debbcf-af8e-4d76-9edd-93d0ad3ddfba)
 
 
 #### DESCRIPTION
-
+Use saved locations or enter a differnt pick up point
 
 ### SCREEN
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-09-31-173_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/16c8d35c-293a-4418-ab01-75a61c87e302)
 
 
 #### DESCRIPTION
-
+HealthCare Page
 
 ### SCREEN
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-09-41-824_host.exp.exponent(1).jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/149c601c-c93f-4f5f-8b02-a0ac3e621e11)
 
 
 #### DESCRIPTION
-
+Notification page
 
 ### SCREEN
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-09-48-815_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/b6030f5d-537d-4db5-89c2-275298a55428)
 
 
 #### DESCRIPTION
-
+Account page, with a section to track orders, logout and change profile settings
 
 ### SCREEN
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-09-55-352_host.exp.exponent(1).jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/c6349f21-82d8-48fa-a215-e5935fdc2e09)
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-11-10-01-059_host.exp.exponent.jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/2f7fb1aa-c53e-430f-a6a7-1bec0fdb1fac)
 
 
 #### DESCRIPTION
 
-
-### SCREEN
-
-
-#### DESCRIPTION
-
-
-### SCREEN
-
-
-#### DESCRIPTION
-
-
-### SCREEN
-
-
-#### DESCRIPTION
-
-
-### SCREEN
-
-
-#### DESCRIPTION
-
-
+Tracking orders
 ### SCREEN
 
 

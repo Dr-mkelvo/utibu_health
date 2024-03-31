@@ -1,7 +1,8 @@
 ### Utibu Health is a healthcare facility specializing in chronic condition management, including HIV, diabetes, and hypertension. We focus on providing convenience to our patients by offering long-term medication solutions and enabling remote prescription refills.
 
 ### SCREEN
-file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-10-28-54-958_host.exp.exponent(1).jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/160c1a58-dac0-401f-b7be-0a9264714502 =100x20)
+file:///home/dr-mkelvo/Downloads/Screenshot_2024-03-31-10-28-54-958_host.exp.exponent(1).jpg![image](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/160c1a58-dac0-401f-b7be-0a9264714502)
+[<img src="https://github.com/Dr-mkelvo/utibu_health/assets/118157498/160c1a58-dac0-401f-b7be-0a9264714502" width="250"/>](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/160c1a58-dac0-401f-b7be-0a9264714502)
 
 
 

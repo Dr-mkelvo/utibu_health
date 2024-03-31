@@ -1,5 +1,8 @@
 ### Utibu Health is a healthcare facility specializing in chronic condition management, including HIV, diabetes, and hypertension. We focus on providing convenience to our patients by offering long-term medication solutions and enabling remote prescription refills.
 
+
+
+
 ### SCREEN
 
 [<img src="https://github.com/Dr-mkelvo/utibu_health/assets/118157498/160c1a58-dac0-401f-b7be-0a9264714502" width="250"/>](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/160c1a58-dac0-401f-b7be-0a9264714502)
@@ -71,7 +74,6 @@ previous orders made
 
 ### SCREEN
 [<img src="https://github.com/Dr-mkelvo/utibu_health/assets/118157498/c9253b40-b695-4323-a2df-fba43471b519" width="250"/>](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/c9253b40-b695-4323-a2df-fba43471b519)
-
 [<img src="https://github.com/Dr-mkelvo/utibu_health/assets/118157498/ee472356-2f6d-4951-81d9-5548588bb8d8" width="250"/>](https://github.com/Dr-mkelvo/utibu_health/assets/118157498/ee472356-2f6d-4951-81d9-5548588bb8d8)
 
 
@@ -166,7 +168,12 @@ Tracking orders
 
 #### DESCRIPTION
 
-
+# HOW IT WORKS
+In the project directory, you can run:
+##### `git clone https://github.com/Dr-mkelvo/utibu_health.git`
+##### `npm install`
+##### `npm start`
+##### `Scan the QR code above with Expo Go (Android) or the Camera app (iOS) or manually type exp://192.168.100.7:8081 on your Expo Go Application`
 
 ### SCREEN
 

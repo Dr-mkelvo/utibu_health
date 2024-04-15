@@ -7,6 +7,7 @@ In the project directory, you can run:
 ##### `git clone https://github.com/Dr-mkelvo/utibu_health.git`
 ##### `npm install`
 ##### `npm start`
+Using your phone
 ##### `Scan the QR code above with Expo Go (Android) or the Camera app (iOS) or manually type exp://192.168.100.7:8081 on your Expo Go Application`
 
 ### SCREEN
